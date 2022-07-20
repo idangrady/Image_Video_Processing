@@ -1,0 +1,16 @@
+﻿  Main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\github_\Image_Video_Processing\Exercises\Week_2\opencvcourse\opencvcourse\Week_3.cpp(134,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\github_\Image_Video_Processing\Exercises\Week_2\opencvcourse\opencvcourse\Main.cpp(33,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\github_\Image_Video_Processing\Exercises\Week_2\opencvcourse\opencvcourse\Week_3.cpp(78): warning C4715: '_kernel': not all control paths return a value
+Week_3.obj : error LNK2005: "class cv::Mat __cdecl _kernel(int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?_kernel@@YA?AVMat@cv@@HHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: void __cdecl Week_3::desplay_img(void)" (?desplay_img@Week_3@@QEAAXXZ) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: class cv::Mat __cdecl Week_3::downsample(class cv::Mat,int,int)" (?downsample@Week_3@@QEAA?AVMat@cv@@V23@HH@Z) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: class cv::Mat __cdecl Week_3::insert_zero_into_low_reso(class cv::Mat,int,int)" (?insert_zero_into_low_reso@Week_3@@QEAA?AVMat@cv@@V23@HH@Z) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: void __cdecl Week_3::load_img_to_Memory(void)" (?load_img_to_Memory@Week_3@@QEAAXXZ) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: void __cdecl Week_3::processing(void)" (?processing@Week_3@@QEAAXXZ) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: class cv::Mat __cdecl Week_3::read_image(void)" (?read_image@Week_3@@QEAA?AVMat@cv@@XZ) already defined in Main.obj
+Week_3.obj : error LNK2005: "public: class cv::Mat __cdecl Week_3::up_downSampling(class cv::Mat,int)" (?up_downSampling@Week_3@@QEAA?AVMat@cv@@V23@H@Z) already defined in Main.obj
+Week_3.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > GLOBALPATH" (?GLOBALPATH@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Main.obj
+Week_3.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > FILE_NAME" (?FILE_NAME@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Main.obj
+D:\github_\Image_Video_Processing\Exercises\Week_2\opencvcourse\x64\Debug\opencvcourse.exe : fatal error LNK1169: one or more multiply defined symbols found
