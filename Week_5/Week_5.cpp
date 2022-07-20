@@ -42,5 +42,6 @@ int main()
     Mat imgOrig = read_file(imgOrg, "None", false, 2000, false);
 
     blur_Median(imgNoise, imgOrig,5, true);
+    int pendingChange;
 
 }
