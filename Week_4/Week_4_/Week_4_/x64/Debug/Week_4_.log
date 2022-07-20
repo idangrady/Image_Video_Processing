@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\github_\Image_Video_Processing\Exercises\Week_4\Week_4_\Week_4_\Utilis.h(64,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\github_\Image_Video_Processing\Exercises\Week_4\Week_4_\Week_4_\Utilis.h(48,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\github_\Image_Video_Processing\Exercises\Week_4\Week_4_\Week_4_\Utilis.h(78): message : see reference to function template instantiation 'void show_vec<cv::String>(std::vector<cv::String,std::allocator<cv::String>>)' being compiled
+D:\github_\Image_Video_Processing\Exercises\Week_4\Week_4_\Week_4_\Utilis.h(82): warning C4715: 'get_files_folder': not all control paths return a value
+  Week_4_.vcxproj -> D:\github_\Image_Video_Processing\Exercises\Week_4\Week_4_\x64\Debug\Week_4_.exe
