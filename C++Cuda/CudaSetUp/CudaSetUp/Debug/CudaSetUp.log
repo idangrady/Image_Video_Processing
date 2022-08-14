@@ -1,0 +1,3 @@
+﻿  CudaSetUp.cpp
+D:\github_\Image_Video_Processing\C++Cuda\CudaSetUp\CudaSetUp\CudaSetUp.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CudaSetUp.vcxproj -> D:\github_\Image_Video_Processing\C++Cuda\CudaSetUp\Debug\CudaSetUp.exe
